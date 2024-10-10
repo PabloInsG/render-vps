@@ -3,7 +3,7 @@ import gsap from 'gsap';
 import { useGSAP } from '@gsap/react';
 import { Header } from './components/Header.jsx';
 import { FollowMouse } from './components/FollowMouse.jsx';
-import dentadura from './assets/dentadura.jpg';
+import dentadura from './assets/Combinada.jpg';
 
 function App() {
   return (
